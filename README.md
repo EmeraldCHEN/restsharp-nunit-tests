@@ -8,13 +8,19 @@ Ensure you have the .NET SDK installed. You can download it from [Microsoft's .N
 
 - Step 2: Create a New NUnit Test Project
 
-Open the terminal and run `dotnet new nunit -n ApiTestProject` to creates a new NUnit test project named ApiTestProject
+Open the terminal and run `dotnet new nunit -n ApiTests` to creates a new NUnit test project named ApiTestProject
 
 - Step 3: Install Dependencies
 
-Run `cd ApiTestProject` to navigate to the project folder then  `dotnet add package RestSharp` to install RestSharp via NuGet and `dotnet add package NUnit` & 
+Run `cd ApiTests` to navigate to the project folder then  `dotnet add package RestSharp` to install RestSharp via NuGet and `dotnet add package NUnit` & 
 `dotnet add package NUnit3TestAdapter` to ensure NUnit is installed
 
-Step 4: Write a Basic API Test
+- Step 4: Write a Basic API Test
 
-Create a new file *ApiTests.cs* inside the *ApiTestProject* folder and add the test code
+Add the test code in the file *UnitTest1.cs* inside the *ApiTests* folder 
+
+
+- Step 5: Run the Test
+
+Run `dotnet test` and if everything is set up correctly, you should see a *ApiTests succeeded* message confirming the test ran successfully 🚀
+
