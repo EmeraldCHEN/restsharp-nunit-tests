@@ -24,3 +24,8 @@ Add the test code in the file *UnitTest1.cs* inside the *ApiTests* folder
 
 Run `dotnet test` and if everything is set up correctly, you should see a *ApiTests succeeded* message confirming the test ran successfully 🚀
 
+- Steo 6: Push to GitHub Repo
+
+If you’ve already linked your repo, run 1) `git add .` to add all changes in your repo; 2) `git status` to verify the changes to show all staged files and confirm what’s ready to be committed; 3) `git commit -m "Initial commit with ... or another message to describe your changes"` to commit the changes; 4) `git push origin [main or other branch]` to push changes to GitHub.
+
+
