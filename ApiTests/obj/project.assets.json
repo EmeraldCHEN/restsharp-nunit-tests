@@ -1638,11 +1638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ahyua\\restsharp-nunit-tests\\ApiTests\\ApiTests.csproj",
+      "projectUniqueName": "C:\\Users\\ahyua\\Downloads\\restsharp-nunit-tests\\ApiTests\\ApiTests.csproj",
       "projectName": "ApiTests",
-      "projectPath": "C:\\Users\\ahyua\\restsharp-nunit-tests\\ApiTests\\ApiTests.csproj",
+      "projectPath": "C:\\Users\\ahyua\\Downloads\\restsharp-nunit-tests\\ApiTests\\ApiTests.csproj",
       "packagesPath": "C:\\Users\\ahyua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ahyua\\restsharp-nunit-tests\\ApiTests\\obj\\",
+      "outputPath": "C:\\Users\\ahyua\\Downloads\\restsharp-nunit-tests\\ApiTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahyua\\AppData\\Roaming\\NuGet\\NuGet.Config"

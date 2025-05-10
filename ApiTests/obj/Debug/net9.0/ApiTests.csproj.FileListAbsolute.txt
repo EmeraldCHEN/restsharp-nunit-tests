@@ -157,3 +157,12 @@ C:\Users\ahyua\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\refint\ApiTests.d
 C:\Users\ahyua\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.pdb
 C:\Users\ahyua\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.genruntimeconfig.cache
 C:\Users\ahyua\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ref\ApiTests.dll
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.csproj.AssemblyReference.cache
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.AssemblyInfoInputs.cache
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.AssemblyInfo.cs
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.csproj.CoreCompileInputs.cache
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.sourcelink.json
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.dll
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\refint\ApiTests.dll
+C:\Users\ahyua\Downloads\restsharp-nunit-tests\ApiTests\obj\Debug\net9.0\ApiTests.pdb

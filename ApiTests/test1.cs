@@ -7,7 +7,16 @@ namespace ApiTests
     [TestFixture]
     public class ApiTestExample
     {
-        private const string BaseUrl = "https://jsonplaceholder.typicode.com";
+        private static string BaseUrl;
+        private static RestClient Client;
+
+        [OneTimeSetUp]
+        public void TestClassInitialize()
+        {
+            //make sure this has the correct port!
+            BaseUrl = "https://jsonplaceholder.typicode.com";
+            Client = new RestClient(BaseUrl);
+        }
 
         [Test]
         public void Get_Posts_ShouldReturn_OK()
